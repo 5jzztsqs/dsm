@@ -1,0 +1,4 @@
+jdk`https://repo.huaweicloud.com/java/jdk/8u202-b08/jdk-8u202-windows-x64.exe
+node`https://nodejs.org/dist/latest-v22.x/node-v22.2.0-win-x64.zip
+rar`http://xz.winwin7xz.com/small/WinRAR-Final-x64-liehuo.exe
+QQ`https://dldir1.qq.com/qqfile/qq/PCQQ9.7.1/QQ9.7.1.28940.exe
